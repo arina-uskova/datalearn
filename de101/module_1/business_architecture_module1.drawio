@@ -1,0 +1,89 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/26.0.4 Chrome/128.0.6613.186 Electron/32.2.5 Safari/537.36" version="26.0.4">
+  <diagram name="Страница — 1" id="6tCrQbSIe1BAK99NylLT">
+    <mxGraphModel dx="1475" dy="844" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ufAHFsf4ZeUtqPQFCs-o-25" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;fillColor=none;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="183.75" y="305" width="431.88" height="230.63" as="geometry" />
+        </mxCell>
+        <mxCell id="ufAHFsf4ZeUtqPQFCs-o-24" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;fillColor=none;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="-95.94000000000005" y="339.38" width="431.88" height="161.87" as="geometry" />
+        </mxCell>
+        <mxCell id="ufAHFsf4ZeUtqPQFCs-o-7" value="&lt;font&gt;Source&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontColor=light-dark(#0c0576, #ededed);fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="75" y="153" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ufAHFsf4ZeUtqPQFCs-o-8" value="&lt;span style=&quot;text-wrap: wrap;&quot;&gt;Storage&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontColor=light-dark(#0c0576, #ededed);fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="345" y="153" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ufAHFsf4ZeUtqPQFCs-o-9" value="&lt;span style=&quot;text-wrap: wrap;&quot;&gt;Business&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontColor=light-dark(#0c0576, #ededed);fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="635" y="153" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ufAHFsf4ZeUtqPQFCs-o-11" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Архитектура аналитического решения нефтяной компании&amp;nbsp;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;fontColor=light-dark(#110981, #ededed);" vertex="1" parent="1">
+          <mxGeometry x="160" y="30" width="470" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ufAHFsf4ZeUtqPQFCs-o-14" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/storage/StorSimple_Data_Managers.svg;" vertex="1" parent="1">
+          <mxGeometry x="321.5" y="230" width="157.5" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="ufAHFsf4ZeUtqPQFCs-o-15" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/preview/Time_Series_Data_Sets.svg;" vertex="1" parent="1">
+          <mxGeometry x="650.22" y="240" width="67.5" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="ufAHFsf4ZeUtqPQFCs-o-16" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/power_platform/PowerBI.svg;" vertex="1" parent="1">
+          <mxGeometry x="650.22" y="350" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ufAHFsf4ZeUtqPQFCs-o-17" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/databases/Data_Factory.svg;" vertex="1" parent="1">
+          <mxGeometry x="80" y="220" width="79" height="79" as="geometry" />
+        </mxCell>
+        <mxCell id="ufAHFsf4ZeUtqPQFCs-o-18" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/preview/Azure_Workbooks.svg;" vertex="1" parent="1">
+          <mxGeometry x="80" y="440" width="72" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="ufAHFsf4ZeUtqPQFCs-o-20" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/other/Grafana.svg;" vertex="1" parent="1">
+          <mxGeometry x="640.22" y="457.2" width="80.88" height="62.8" as="geometry" />
+        </mxCell>
+        <mxCell id="ufAHFsf4ZeUtqPQFCs-o-21" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.services.excel_services;" vertex="1" parent="1">
+          <mxGeometry x="634.19" y="545" width="99.56" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ufAHFsf4ZeUtqPQFCs-o-23" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;fillColor=none;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="466.88" y="339.38" width="431.88" height="161.87" as="geometry" />
+        </mxCell>
+        <mxCell id="ufAHFsf4ZeUtqPQFCs-o-26" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Data_Lake.svg;" vertex="1" parent="1">
+          <mxGeometry x="352.75" y="501.25" width="95" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="ufAHFsf4ZeUtqPQFCs-o-27" value="геологические данные,&lt;div&gt;бурение, добыча&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=2;fontSize=14;fontStyle=0;fontColor=light-dark(#110981, #ededed);" vertex="1" parent="1">
+          <mxGeometry x="35" y="300" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ufAHFsf4ZeUtqPQFCs-o-28" value="НПЗ" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=2;fontSize=16;fontStyle=0;fontColor=light-dark(#110981, #ededed);" vertex="1" parent="1">
+          <mxGeometry x="86" y="350" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ufAHFsf4ZeUtqPQFCs-o-29" value="АЗС" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=2;fontSize=16;fontStyle=0;fontColor=light-dark(#110981, #ededed);" vertex="1" parent="1">
+          <mxGeometry x="86" y="380" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ufAHFsf4ZeUtqPQFCs-o-30" value="Рыночные данные" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=2;fontSize=16;fontStyle=0;fontColor=light-dark(#110981, #ededed);" vertex="1" parent="1">
+          <mxGeometry x="40" y="530" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ufAHFsf4ZeUtqPQFCs-o-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ufAHFsf4ZeUtqPQFCs-o-33" target="ufAHFsf4ZeUtqPQFCs-o-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ufAHFsf4ZeUtqPQFCs-o-33" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=-180;fontColor=light-dark(#0c0576, #ededed);labelBorderColor=light-dark(#050363, #ededed);fontSize=10;strokeColor=#000066;" vertex="1" parent="1">
+          <mxGeometry x="200" y="250" width="80" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="ufAHFsf4ZeUtqPQFCs-o-35" value="ETL" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="240" y="380" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ufAHFsf4ZeUtqPQFCs-o-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ufAHFsf4ZeUtqPQFCs-o-36" target="ufAHFsf4ZeUtqPQFCs-o-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ufAHFsf4ZeUtqPQFCs-o-36" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="250" width="80" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="ufAHFsf4ZeUtqPQFCs-o-40" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.466;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.479;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ufAHFsf4ZeUtqPQFCs-o-26" target="ufAHFsf4ZeUtqPQFCs-o-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="490" y="450" as="sourcePoint" />
+            <mxPoint x="540" y="400" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
